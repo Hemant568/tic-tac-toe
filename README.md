@@ -1,2 +1,2 @@
 # tic-tac-toe
-Tic Tac Toe
+Basic implementation of tic tac toe (of course we can optimise this 😁)
